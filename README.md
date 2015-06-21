@@ -1,7 +1,4 @@
-# TakeThePlunge
-===============
+# datasciencecoursera
 
-
+Take The Plunge
 Become Humble
-
-Connecting the dots and finding the truth.
